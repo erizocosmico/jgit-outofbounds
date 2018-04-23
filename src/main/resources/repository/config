@@ -1,0 +1,6 @@
+[core]
+	bare = true
+[remote "016129fe-3560-3f65-1d69-a5f68f2fb4b1"]
+	url = https://github.com/zfcampus/zf-oauth2
+	isfork = false
+	fetch = +refs/heads/*:refs/remotes/016129fe-3560-3f65-1d69-a5f68f2fb4b1/*
